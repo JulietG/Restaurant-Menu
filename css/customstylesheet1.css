@@ -1,0 +1,51 @@
+.separate-section{
+		margin: 500px;
+		}
+
+body{
+			color: gray;
+
+}
+
+h1{ color: black;}
+
+footer{ letter-spacing: 20px;}
+
+.lead{ color: black;}
+
+.pic{
+		width: 100%;
+}
+.header{
+	background-color: white;
+	height: 300%;
+	text-align: center;
+	padding-top: 30px;
+	letter-spacing: 4em;
+	}
+.logo{
+	max-width: 50%;
+	height:auto;
+	padding-bottom:20px;
+
+}
+
+.navbar-brand,
+.navbar-brand:hover {
+	color: #fff !important;
+}
+
+	.button1 {
+			padding: 2px 4px;
+			background-color: gray;
+			color: white; 
+			font-size: 9pt;
+			border-radius: 5px;
+			
+			opacity: .5;
+			
+		}
+		.button1:hover {
+			color: black;
+			background-color: white;
+			text-decoration: none;

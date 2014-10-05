@@ -1,0 +1,23 @@
+.jumbotron {
+	background: rgba(255,255,255, .5);
+	
+
+}
+body {
+	background-image: url('../images/PBJ-Burger.jpg');
+	background-size: 400% auto;
+}
+
+.menu-item {
+	background: rgba(255,255,255, .5);
+	padding: 20px;
+	border-radius: 8px;
+}
+
+footer {
+	padding-left: 20px;
+	font-weight: bold;
+}
+.sub-head{
+	font-style: italic;
+}
