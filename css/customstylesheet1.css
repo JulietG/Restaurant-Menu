@@ -4,14 +4,30 @@
 
 body{
 			color: gray;
+			font-family: 'Reenie Beanie', cursive;
+			font-size: 15pt;
+			line-height: 16pt;
 
 }
 
-h1{ color: black;}
+h1{ color: black;
+	font-family: 'Amatic SC', cursive;
+	font-size: 60pt;
+	font-weight: bold;}
 
 footer{ letter-spacing: 20px;}
 
+.font {font-family: 'Reenie Beanie', cursive;
+	font-size: 18pt;}
+
+.font2 {font-family: 'Amatic SC', cursive;
+	font-size: 20pt;}
+
+.font3 {font-family: 'Amatic SC', cursive;
+	font-size: 30pt;}
+
 .lead{ color: black;}
+
 
 .pic{
 		width: 100%;
@@ -36,16 +52,18 @@ footer{ letter-spacing: 20px;}
 }
 
 	.button1 {
-			padding: 2px 4px;
-			background-color: gray;
-			color: white; 
-			font-size: 9pt;
-			border-radius: 5px;
 			
+			background-color: white;
+			color: black; 
+			font-size: 20pt;
+			font-family: 'Amatic SC', cursive;
+			font-weight: bold;
 			opacity: .5;
+			line-height: 40pt;
+
 			
 		}
 		.button1:hover {
-			color: black;
+			color: gray;
 			background-color: white;
 			text-decoration: none;
